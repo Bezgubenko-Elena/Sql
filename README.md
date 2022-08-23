@@ -8,3 +8,5 @@
 [Hw_3_sql.sql](https://github.com/Bezgubenko-Elena/Sql/blob/main/Hw_3_sql.sql) - работа с SELECT, FROM, WHERE, ORDER BY, LIKE, IN, INNER JOIN, RIGHT JOIN, LEFT JOIN, ROUND, AVG, SUM, MIN, MAX, COUNT.
 
 [Hw_sql_sql-ex.sql](https://github.com/Bezgubenko-Elena/Sql/blob/main/Hw_sql_sql-ex.sql) - решение задач с использованием указанных в предыдущих заданиях элементов языка SQL, а также дополнительно DISTINCT, UNION, GROUP BY, HAVING, алиасы.
+
+![Сертификат о завершении "Интерактивный тренажер по SQL"](https://stepik.org/cert/1567794)
