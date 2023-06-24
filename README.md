@@ -1,6 +1,8 @@
 # SQL
 ***В репозитории представлена работа с SQL-запросами - выполнение задания на курсах Вадима Ксендзова, а также часть заданий с сайта [sql-ex.ru](https://www.sql-ex.ru/). Текст заданий находится в комментариях перед каждой строкой.***
 
+[Сертификат об успешном прохождении курса "Симулятор SQL" на базе https://karpov.courses](https://lab.karpov.courses/live_certificate/8fb839a7-0819-4021-bd21-f817208b657a/)
+
 [Сертификат об успешном прохождении "Интерактивный тренажер по SQL"](https://stepik.org/cert/1567794)
 
 [Hw_1_sql.sql](https://github.com/Bezgubenko-Elena/Sql/blob/main/Hw_1_sql.sql) - работа с SELECT, FROM, WHERE, ORDER BY, LIKE, BETWEEN, AND, IN.
